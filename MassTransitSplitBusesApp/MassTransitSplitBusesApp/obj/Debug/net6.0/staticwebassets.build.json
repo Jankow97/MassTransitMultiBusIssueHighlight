@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ATWiUOXtDj3xdwQasf+c3iic3iEAv2OueF1vru72ckg=",
+  "Source": "MassTransitSplitBusesApp",
+  "BasePath": "_content/MassTransitSplitBusesApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
